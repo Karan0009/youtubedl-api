@@ -1,5 +1,4 @@
 const youtubedl = require("youtube-dl-exec");
-const request = require("request");
 
 exports.handler = async function (event, context) {
   try {
