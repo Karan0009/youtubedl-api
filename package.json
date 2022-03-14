@@ -1,0 +1,13 @@
+{
+  "name": "youtube-dl-serverless-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-dl-exec": "^2.0.7"
+  }
+}
